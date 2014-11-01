@@ -1,0 +1,584 @@
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Inventory.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Inventory.xnb
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.AOP.Profiler.dll
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.Xna.Profiler.dll
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.AOP.Profiler.dll
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.Xna.Profiler.dll
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Inventory.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.AOP.Profiler.dll
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.Xna.Profiler.dll
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\player.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Inventory.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\player.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.AOP.Profiler.dll
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.Xna.Profiler.dll
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\player.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Inventory.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\player.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.AOP.Profiler.dll
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Indiefreaks.Xna.Profiler.dll
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\dir.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\ESQ.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.dll
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Inventory.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\player.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\dir.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\ESQ.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.dll
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.xml
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bix.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\char.xnb
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PORRACANSADA.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Character.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\background.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa1.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa2.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\mapa3.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Inventory.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\player.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\dir.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\ESQ.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bix.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\char.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PORRACANSADA.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bix.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\char.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PORRACANSADA.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\invent.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\wall.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\joint.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\limitTexture.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bix.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\char.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PORRACANSADA.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\invent.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\wall.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\joint.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\limitTexture.xnb
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\enf1440.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bix.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\char.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PORRACANSADA.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\invent.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\wall.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\joint.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\limitTexture.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\enf1440.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\doge.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\luv.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\chave.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\estojo.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lapa1440.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\fenda.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\humani1440.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lampada.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.wma
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio1440.xnb
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\cad.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Pause.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bix.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\char.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PORRACANSADA.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\invent.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\wall.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\joint.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\limitTexture.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\enf1440.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\doge.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\luv.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\chave.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\estojo.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lapa1440.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\fenda.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\humani1440.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lampada.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio1440.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\cad.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio+lamp_14.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.wma
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MENU INICIAL FINAL PORRA com o nome 1440.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.dll
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.xml
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\ajuda_final.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PauseAntigo.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\créditosss.xnb
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\exatas1440.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PauseAntigo.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\enf1440.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\doge.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\luv.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\chave.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\estojo.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lapa1440.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\fenda.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\humani1440.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lampada.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio1440.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\cad.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio+lamp_14.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MENU INICIAL FINAL PORRA com o nome 1440.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\ajuda_final.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\créditosss.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\exatas1440.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.wma
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.dll
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.xml
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio+nro_14.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lumin.xnb
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PauseAntigo.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bix.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\char.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\invent.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\wall.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\joint.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\limitTexture.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\enf1440.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\doge.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\luv.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\chave.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\estojo.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lapa1440.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\fenda.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\humani1440.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lampada.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio1440.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\cad.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio+lamp_14.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MENU INICIAL FINAL PORRA com o nome 1440.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\ajuda_final.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\pause.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\créditosss.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\exatas1440.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio+nro_14.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lumin.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PORRACANSADA.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.xnb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.wma
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.exe
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\ProjectCamera.pdb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.exe
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\ProjectCamera.pdb
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\claudio.xnb

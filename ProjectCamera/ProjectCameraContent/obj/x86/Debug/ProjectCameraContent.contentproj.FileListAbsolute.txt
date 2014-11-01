@@ -1,0 +1,25 @@
+c:\users\u11158\documents\visual studio 2010\Projects\ProjectCamera\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Nova pasta\TCC\ProjectCamera\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+K:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+D:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+I:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - Velocity ~Tent Atual Massa\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+G:\Nova pasta\TCC\Projetão Oficial\Projects\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+C:\Users\u11185\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+Z:\Nova pasta\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+C:\Users\u11158.ACADEMICO\Desktop\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+G:\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+I:\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+H:\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\obj\x86\Debug\ProjectCameraContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-07-10T01:06:08.1380454-03:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuTitle.spritefont</Source>
+      <Name>MainMenuTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuTitle.xnb</Output>
+      <Time>2013-08-28T10:56:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuOptions.spritefont</Source>
+      <Name>MainMenuOptions</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenuOptions.xnb</Output>
+      <Time>2013-11-25T21:39:24-02:00</Time>
+    </Item>
+    <Item>
+      <Source>floor.PNG</Source>
+      <Name>floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\floor.xnb</Output>
+      <Time>2013-11-07T13:37:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu.jpg</Source>
+      <Name>MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MainMenu.xnb</Output>
+      <Time>2013-11-25T12:20:28-02:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseAntigo.jpg</Source>
+      <Name>PauseAntigo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PauseAntigo.xnb</Output>
+      <Time>2013-11-25T12:21:06-02:00</Time>
+    </Item>
+    <Item>
+      <Source>MarioLevel.png</Source>
+      <Name>MarioLevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MarioLevel.xnb</Output>
+      <Time>2013-09-02T12:09:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>portal.png</Source>
+      <Name>portal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\portal.xnb</Output>
+      <Time>2013-09-16T19:19:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>options.png</Source>
+      <Name>options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\options.xnb</Output>
+      <Time>2013-11-25T12:20:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>imgoptions.png</Source>
+      <Name>imgoptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\imgoptions.xnb</Output>
+      <Time>2013-11-25T12:20:02-02:00</Time>
+    </Item>
+    <Item>
+      <Source>audiooptions.png</Source>
+      <Name>audiooptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\audiooptions.xnb</Output>
+      <Time>2013-11-25T12:19:34-02:00</Time>
+    </Item>
+    <Item>
+      <Source>corredor1_1_1.png</Source>
+      <Name>corredor1_1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_1_1.xnb</Output>
+      <Time>2013-11-06T10:11:06-02:00</Time>
+    </Item>
+    <Item>
+      <Source>corredor1_2_1.png</Source>
+      <Name>corredor1_2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor1_2_1.xnb</Output>
+      <Time>2013-12-16T14:43:52-02:00</Time>
+    </Item>
+    <Item>
+      <Source>corredor2_1_2.png</Source>
+      <Name>corredor2_1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_1_2.xnb</Output>
+      <Time>2013-11-06T10:11:06-02:00</Time>
+    </Item>
+    <Item>
+      <Source>corredor2_2_2.png</Source>
+      <Name>corredor2_2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\corredor2_2_2.xnb</Output>
+      <Time>2013-11-06T10:11:06-02:00</Time>
+    </Item>
+    <Item>
+      <Source>walkingSheet250x330.png</Source>
+      <Name>walkingSheet250x330</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\walkingSheet250x330.xnb</Output>
+      <Time>2013-11-06T11:11:46-02:00</Time>
+    </Item>
+    <Item>
+      <Source>bix.png</Source>
+      <Name>bix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bix.xnb</Output>
+      <Time>2013-11-18T22:15:22-02:00</Time>
+    </Item>
+    <Item>
+      <Source>char.png</Source>
+      <Name>char</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\char.xnb</Output>
+      <Time>2013-11-18T22:39:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>invent.png</Source>
+      <Name>invent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\invent.xnb</Output>
+      <Time>2013-11-25T12:17:34-02:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.png</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>2013-11-25T12:47:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>joint.png</Source>
+      <Name>joint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\joint.xnb</Output>
+      <Time>2013-11-25T20:28:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>limitTexture.png</Source>
+      <Name>limitTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\limitTexture.xnb</Output>
+      <Time>2013-11-25T21:09:36-02:00</Time>
+    </Item>
+    <Item>
+      <Source>enf1440.png</Source>
+      <Name>enf1440</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\enf1440.xnb</Output>
+      <Time>2013-11-29T10:46:32-02:00</Time>
+    </Item>
+    <Item>
+      <Source>doge.jpg</Source>
+      <Name>doge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\doge.xnb</Output>
+      <Time>2013-12-02T15:40:48-02:00</Time>
+    </Item>
+    <Item>
+      <Source>luv.png</Source>
+      <Name>luv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\luv.xnb</Output>
+      <Time>2013-12-02T15:48:02-02:00</Time>
+    </Item>
+    <Item>
+      <Source>chave.png</Source>
+      <Name>chave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\chave.xnb</Output>
+      <Time>2013-12-02T18:05:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>estojo.png</Source>
+      <Name>estojo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\estojo.xnb</Output>
+      <Time>2013-12-02T18:14:08-02:00</Time>
+    </Item>
+    <Item>
+      <Source>lapa1440.png</Source>
+      <Name>lapa1440</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lapa1440.xnb</Output>
+      <Time>2013-12-02T19:03:26-02:00</Time>
+    </Item>
+    <Item>
+      <Source>fenda.png</Source>
+      <Name>fenda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\fenda.xnb</Output>
+      <Time>2013-12-02T19:19:42-02:00</Time>
+    </Item>
+    <Item>
+      <Source>humani1440.png</Source>
+      <Name>humani1440</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\humani1440.xnb</Output>
+      <Time>2013-12-02T19:40:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>lampada.png</Source>
+      <Name>lampada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lampada.xnb</Output>
+      <Time>2013-12-02T19:44:38-02:00</Time>
+    </Item>
+    <Item>
+      <Source>bio1440.png</Source>
+      <Name>bio1440</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio1440.xnb</Output>
+      <Time>2013-12-02T21:45:18-02:00</Time>
+    </Item>
+    <Item>
+      <Source>cad.png</Source>
+      <Name>cad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\cad.xnb</Output>
+      <Time>2013-12-02T21:45:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>bio+lamp_14.png</Source>
+      <Name>bio+lamp_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio+lamp_14.xnb</Output>
+      <Time>2013-12-02T22:02:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>MENU INICIAL FINAL PORRA com o nome 1440.png</Source>
+      <Name>MENU INICIAL FINAL PORRA com o nome 1440</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\MENU INICIAL FINAL PORRA com o nome 1440.xnb</Output>
+      <Time>2013-12-05T11:19:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>ajuda_final.png</Source>
+      <Name>ajuda_final</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\ajuda_final.xnb</Output>
+      <Time>2013-12-10T15:13:34-02:00</Time>
+    </Item>
+    <Item>
+      <Source>pause.png</Source>
+      <Name>pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\pause.xnb</Output>
+      <Time>2013-12-10T17:59:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>créditosss.png</Source>
+      <Name>créditosss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\créditosss.xnb</Output>
+      <Time>2013-12-10T19:37:56-02:00</Time>
+    </Item>
+    <Item>
+      <Source>exatas1440.png</Source>
+      <Name>exatas1440</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\exatas1440.xnb</Output>
+      <Time>2013-12-10T20:54:24-02:00</Time>
+    </Item>
+    <Item>
+      <Source>bio+nro_14.png</Source>
+      <Name>bio+nro_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\bio+nro_14.xnb</Output>
+      <Time>2013-12-18T12:37:26-02:00</Time>
+    </Item>
+    <Item>
+      <Source>lumin.png</Source>
+      <Name>lumin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\lumin.xnb</Output>
+      <Time>2013-12-16T14:48:06-02:00</Time>
+    </Item>
+    <Item>
+      <Source>PORRACANSADA.png</Source>
+      <Name>PORRACANSADA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\PORRACANSADA.xnb</Output>
+      <Time>2013-12-16T14:38:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Trote - soundtrack.mp3</Source>
+      <Name>Trote - soundtrack</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.xnb</Output>
+      <Extra>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\Trote - soundtrack.wma</Extra>
+      <Time>2013-12-02T20:13:08-02:00</Time>
+    </Item>
+    <Item>
+      <Source>claudio.png</Source>
+      <Name>claudio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\claudio.xnb</Output>
+      <Time>2014-07-10T00:50:41.7145743-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{FEF8A9AB-F992-4ACC-8259-E649F1B7FE90}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCameraContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniela\Documents\COTUCA\ProjectCamera - O Projeto\ProjectCamera\ProjectCamera\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-09T15:42:04.202409-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

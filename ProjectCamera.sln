@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCamera", "ProjectCamera\ProjectCamera\ProjectCamera.csproj", "{D0177DEB-15E8-4F94-B431-DE929B9462AE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ProjectCameraContent", "ProjectCamera\ProjectCameraContent\ProjectCameraContent.contentproj", "{FEF8A9AB-F992-4ACC-8259-E649F1B7FE90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0177DEB-15E8-4F94-B431-DE929B9462AE}.Debug|x86.ActiveCfg = Debug|x86
+		{D0177DEB-15E8-4F94-B431-DE929B9462AE}.Debug|x86.Build.0 = Debug|x86
+		{D0177DEB-15E8-4F94-B431-DE929B9462AE}.Release|x86.ActiveCfg = Release|x86
+		{D0177DEB-15E8-4F94-B431-DE929B9462AE}.Release|x86.Build.0 = Release|x86
+		{FEF8A9AB-F992-4ACC-8259-E649F1B7FE90}.Debug|x86.ActiveCfg = Debug|x86
+		{FEF8A9AB-F992-4ACC-8259-E649F1B7FE90}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

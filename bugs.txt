@@ -1,0 +1,8 @@
+monitoria humanidades: entra pelo lado errado
+
+controles:
+E abre porta
+Q pega item
+T troca lado
+espaço pula
+setas movem

@@ -1,8 +1,63 @@
-monitoria humanidades: entra pelo lado errado
+monitoria exatas: entra pelo lado errado, arrumar saída da sala
+música e som estão trocados no menu áudio
+arrumar setinhas dos menus
+mudar cor do texto
+
+TO DO
+claudio: colocar porta de saída, desenhar cenário decente
+monitoria exatas: puzzle
+animação do início, tutorial com controles
+sala 14
 
 controles:
 E abre porta
 Q pega item
 T troca lado
-espa�o pula
+espaço pula
 setas movem
+
+
+
+//////////////////////ROTEIRO//////////////////////////
+dinalva:
+- projetor libera uma filmagem de câmera de segurança que mostra todas as salas em que os veteranos entraram (ativado com a régua)
+- mexer no pc do professor faz trancar o laboratório pra sempre
+
+enf:
+- dentro do boneco do laboratório tem uma chave para um armário. caso tente retirar o curativo, a monitora vai impedir. só funciona caso pegue as luvas antes (no mural: USE SEMPRE LUVAS)
+
+monitoria de humanidades:
+- lâmpada de luz negra em cima da mesa
+
+monitoria de exatas:
+- monitores esquecem uma chave de fenda na mesa
+
+claudio:
+- 
+
+lapa:
+- caderno dentro do gabinete, só abre com a chave de fenda
+
+biologia:
+- escritos invisíveis na lousa são ativados com a luz negra, revela o número do armário
+
+armário:
+- estojo
+
+sala 14:
+- régua junto da lousa
+
+corredor:
+- mochila é encontrada no lixo
+
+
+
+mural x:
+- "O boneco não anda mas tem pé sujo"
+
+-------------------------------------------------------------------------
+total de itens coletáveis:
+régua, lâmpada, chave de fenda, chave do armário
+
+total de itens perdidos:
+caderno, estojo, mochila
